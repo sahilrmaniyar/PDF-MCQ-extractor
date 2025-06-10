@@ -1,0 +1,8 @@
+streamlit
+pdf2image
+Pillow
+pytesseract
+PIL
+tempfile
+re
+os
